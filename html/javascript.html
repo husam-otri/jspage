@@ -1,0 +1,63 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+	<head>
+		<meta http-equiv="content-language" content="cs" /> 
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		
+		<meta property="og:title" content="The Rock" />
+		<meta property="og:type" content="video.movie" />
+		<meta property="og:description" content="og desc" />
+		<meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" />
+		
+		<meta name="description" content="description content" />
+		<meta name="keywords" content="keywords content" />
+		<!--
+		<link rel="canonical" href="http://translate.poloch.info/canonical">
+		-->
+
+		<!-- -->
+		<script type="text/javascript">document.write("<scrip"+"t src=\"/qordoba-latest.js?1\"></scrip"+"t><scrip"+"t src=\"https://storage.googleapis.com/saas-test/sdk-settings-2358.js?cachebust="+Math.random()+"\"></scrip"+"t>")</script>
+		
+		<script type="text/javascript">
+			setTimeout(function() {
+				var title = document.createElement('title');
+				title.innerHTML = 'dynamic title added after 5 secs';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(title, s);
+				console.log('client> dynamic title added');
+			}, 5000);
+
+			setTimeout(function() {
+				var div = document.createElement('div');
+				div.innerHTML = 'dynamic segment in div';
+				var s = document.getElementsByTagName('a')[0];
+				s.parentNode.insertBefore(div, s);
+				console.log('client> dynamic segment added');
+			}, 10000);
+		</script>
+	</head>
+	
+	<body>
+		<a href="/first-page">first page</a>
+		<a href="/second-page">second page</a>
+		<a href="http://translate.poloch.info/third-page">third page</a>
+		<a href="/unknown-page">unknown page</a>
+		<a href="http://example.com">external page</a>
+		<span><div><div><div><p xnotranslate="true"> segment 1</p></div></div></div></span>
+		<p xnotranslate=true>segment 2 </p>
+		<p>segment 3</p>
+		<img src="/ok-big.png" />
+		<input type="hidden" value="hidden input" />
+		
+		<input type="text" placeholder="placeholder" />
+		
+		<a>qwer</a>
+		
+		
+		<div>segment 4</div>
+		<div><span>segment 4</span></div>
+		
+		<span onclick="window.history.pushState('page2', 'Title', '/dynamic-page?force-collect=true');">click me </span>
+	</body>
+</html>
