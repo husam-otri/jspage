@@ -15,7 +15,7 @@
       "role" : "admin"
     }, {
       "id" : 1002,
-      "name" : "test 3scale api call",
+      "name" : "test github api call",
       "role" : "admin"
     } ],
     "timezone" : "Pacific/Niue",
