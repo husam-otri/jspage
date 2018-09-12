@@ -1,0 +1,26 @@
+{
+  "result" : "success",
+  "token" : "token",
+  "remember_me" : "update to value",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Hussam",
+    "last_name" : "Otrii",
+    "email" : "hussam@qordoba.com",
+    "name" : "Hussam Otri",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a__scaled_256__cropped__scaled_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Controlled Test Proj",
+      "role" : "user5"
+    }, {
+      "id" : "1002",
+      "name" : "test github api call",
+      "role" : "admin"
+    } ],
+    "timezone" : "Pacific/Niue",
+    "created_at" : "1.4200668E12",
+    "phone_number" : "12345621",
+    "last_online" : "1.46960921E12"
+  }
+}
