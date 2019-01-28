@@ -1,0 +1,26 @@
+{
+  "result" : "success",
+  "token" : "token",
+  "remember_me" : "update to key",
+  "loggedUser" : {
+    "id" : 1,
+    "first_name" : "Husam",
+    "last_name" : "Otri",
+    "email" : "hus@qo.com",
+    "name" : "Hus Ot",
+    "avatar" : "_admin a_ _scaled_ __ __ _link",
+    "organizations" : [ {
+      "id" : 2,
+      "name" : "Ctr",
+      "role" : "user2"
+    }, {
+      "id" : 232,
+      "name" : "test",
+      "role" : "admin"
+    } ],
+    "timezone" : "Pacific/Niue",
+    "created_at" : 3432424,
+    "phone_number" : 234,
+    "last_online" : 234
+  }
+}
