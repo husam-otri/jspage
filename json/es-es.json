@@ -1,0 +1,26 @@
+{
+  "result" : "success",
+  "token" : "token",
+  "remember_me" : "update to key",
+  "loggedUser" : {
+    "id" : 1,
+    "first_name" : "Husam",
+    "last_name" : "Itri",
+    "email" : "hussam@qor.com",
+    "name" : "Husa itri",
+    "avatar" : "link_admin a_ _scaled_ __ __ _",
+    "organizations" : [ {
+      "id" : 2,
+      "name" : "Ctr",
+      "role" : "user2"
+    }, {
+      "id" : 111,
+      "name" : "test github",
+      "role" : "admin"
+    } ],
+    "timezone" : "Pacific/Niue",
+    "created_at" : 234234,
+    "phone_number" : 23424,
+    "last_online" : 24234
+  }
+}
