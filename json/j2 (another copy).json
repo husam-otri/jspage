@@ -15,7 +15,7 @@
       "role" : "owner"
     }, {
       "id" : 1002,
-      "name" : "test 3scale api call",
+      "name" : "test 3-scale api call",
       "role" : "owner"
     } ],
     "timezone" : "Pacific/Niue",
