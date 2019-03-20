@@ -1,6 +1,6 @@
 {
   "result" : "Success",
-  "token" : "",
+  "token" : "ali",
   "remember_me" : "rememeber me",
   "loggedUser" : {
     "id" : "1",
