@@ -12,7 +12,7 @@
     "organizations" : [ {
       "id" : 2,
       "name" : "Controlled Test Proj",
-      "role" : "user3"
+      "role" : "user"
     }, {
       "id" : 1002,
       "name" : "test github api call",
