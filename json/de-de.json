@@ -1,26 +1,26 @@
 {
-  "result" : "Successsss",
-  "token" : "",
-  "remember_me" : "Asdfasdf",
   "loggedUser" : {
-    "id" : "1",
-    "first_name" : "Brent",
-    "last_name" : "Gracey",
-    "email" : "may@qordoba.com",
-    "name" : "Sadfsadf",
-    "avatar" : "Gdfgdfg scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin cropped__scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png",
+    "last_online" : "",
     "organizations" : [ {
-      "id" : "2",
-      "name" : "Sdafsdfsdfdsf",
-      "role" : "Fdgdfg"
+      "role" : "",
+      "id" : "",
+      "name" : ""
     }, {
-      "id" : "1002",
-      "name" : "Gdfgdfgdfdfg",
-      "role" : "Fdgdfg"
+      "role" : "",
+      "id" : "",
+      "name" : ""
     } ],
-    "timezone" : "Gdfgdfg",
-    "created_at" : "1420066800000",
-    "phone_number" : "12345621",
-    "last_online" : "1469609210000"
-  }
+    "last_name" : "",
+    "name" : "",
+    "email" : "",
+    "first_name" : "",
+    "phone_number" : "",
+    "avatar" : "",
+    "timezone" : "",
+    "id" : "",
+    "created_at" : ""
+  },
+  "remember_me" : "",
+  "token" : "",
+  "result" : ""
 }
