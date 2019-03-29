@@ -1,0 +1,26 @@
+{
+  "loggedUser" : {
+    "last_online" : "",
+    "organizations" : [ {
+      "role" : "",
+      "id" : "",
+      "name" : ""
+    }, {
+      "role" : "",
+      "id" : "",
+      "name" : ""
+    } ],
+    "last_name" : "",
+    "name" : "",
+    "email" : "",
+    "first_name" : "",
+    "phone_number" : "",
+    "avatar" : "",
+    "timezone" : "",
+    "id" : "",
+    "created_at" : ""
+  },
+  "remember_me" : "",
+  "token" : "",
+  "result" : ""
+}
