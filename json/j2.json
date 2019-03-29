@@ -4,7 +4,7 @@
   "remember_me" : "update to value",
   "loggedUser" : {
     "id" : 143,
-    "first_name" : "Hussam",
+    "first_name" : "Hussam2",
     "last_name" : "Otri",
     "email" : "hussam@qordoba.com",
     "name" : "Hussam Otri",
@@ -20,7 +20,7 @@
     } ],
     "timezone" : "Pacific/Niue",
     "created_at" : 1420066800000,
-    "phone_number" : "12345621",
+    "phone_number" : 12345621,
     "last_online" : 1469609210000
   }
 }
