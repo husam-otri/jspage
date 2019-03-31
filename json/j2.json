@@ -1,7 +1,7 @@
 {
   "result" : "success",
   "token" : "token",
-  "remember_me" : "update to value",
+  "remember_me" : "remember me",
   "loggedUser" : {
     "id" : 143,
     "first_name" : "Hussam",
