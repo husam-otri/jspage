@@ -2,25 +2,25 @@
   "result" : "SUCCÈS",
   "token" : "sdfsf",
   "loggedUser" : {
-    "id" : "1",
+    "id" : 1,
     "first_name" : "fsdfsdfsdf",
     "last_name" : "grean",
     "email" : "may@qordoba.com",
     "name" : "Hussam Otri",
     "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba _ _scaled_ _admin a_ __ __",
     "organizations" : [ {
-      "id" : "2",
+      "id" : 2,
       "name" : "Kontrollü Test Org",
       "role" : "Propriétaire"
     }, {
-      "id" : "1002",
-      "name" : "24532",
+      "id" : 1002,
+      "name" : 24532,
       "role" : "Propriétaire"
     } ],
     "timezone" : "Pasifik / Niue",
-    "created_at" : "1.4200668E12",
-    "phone_number" : "12345621",
-    "last_online" : "1.46960921E12"
+    "created_at" : 1420066800000,
+    "phone_number" : 12345621,
+    "last_online" : 1469609210000
   },
   "remember_me" : null
 }
