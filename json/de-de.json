@@ -1,24 +1,24 @@
 {
-  "result" : "success",
+  "result" : "Success.",
   "token" : "token",
-  "remember_me" : "update to value",
+  "remember_me" : "rememeber me",
   "loggedUser" : {
-    "id" : 13,
-    "first_name" : "Hussam",
-    "last_name" : "Otrii",
-    "email" : "hussam@qordoba.com",
-    "name" : "Hussam Otri",
-    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a__scaled_256__cropped__scaled_32.png",
+    "id" : 1,
+    "first_name" : "Brent",
+    "last_name" : "Lsdd",
+    "email" : "may@qordoba.com",
+    "name" : "Sdfff",
+    "avatar" : "Sdfsdf scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin cropped__scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png",
     "organizations" : [ {
       "id" : 2,
-      "name" : "Controlled Test Proj",
-      "role" : "user3"
+      "name" : "nME",
+      "role" : "actor"
     }, {
       "id" : 1002,
-      "name" : "test github api call",
-      "role" : "admin"
+      "name" : "ffff",
+      "role" : "Dfdsfsdf"
     } ],
-    "timezone" : "Pacific/Niue",
+    "timezone" : "Fsdfsf",
     "created_at" : 1420066800000,
     "phone_number" : 12345621,
     "last_online" : 1469609210000
