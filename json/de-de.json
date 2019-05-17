@@ -1,26 +1,26 @@
 {
-  "result" : "Erfolg",
-  "token" : "Zeichen",
-  "remember_me" : "auf Wert aktualisieren",
+  "result" : "SUCCs",
+  "token" : "",
   "loggedUser" : {
-    "id" : 143,
-    "first_name" : "Hussam",
-    "last_name" : "Otrii",
-    "email" : "hussam@qordoba.com",
+    "id" : 1,
+    "first_name" : "fsdfsdfsdf",
+    "last_name" : "grean",
+    "email" : "may@qordoba.com",
     "name" : "Hussam Otri",
-    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a__scaled_256__cropped__scaled_32.png",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba _ _scaled_ _admin a_ __ __",
     "organizations" : [ {
       "id" : 2,
-      "name" : "Kontrolliertes Testprojekt",
-      "role" : "user3"
+      "name" : "Kontrollü Test Org",
+      "role" : "Propriétaire"
     }, {
       "id" : 1002,
-      "name" : "Test Github API-Aufruf",
-      "role" : " admin"
+      "name" : 24532,
+      "role" : "Propriétaire"
     } ],
-    "timezone" : "Pacific / Niue",
+    "timezone" : "Pasifik / Niue",
     "created_at" : 1420066800000,
     "phone_number" : 12345621,
     "last_online" : 1469609210000
-  }
+  },
+  "remember_me" : null
 }
