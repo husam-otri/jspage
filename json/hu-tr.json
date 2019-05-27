@@ -1,9 +1,9 @@
 {
   "result" : "SUCCÈS",
-  "token" : "",
+  "token" : "token",
   "loggedUser" : {
     "id" : "1",
-    "first_name" : "fsdfsdfsdf",
+    "first_name" : "first_name",
     "last_name" : "grean",
     "email" : "may@qordoba.com",
     "name" : "Hussam Otri",
