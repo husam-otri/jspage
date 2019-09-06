@@ -11,7 +11,7 @@
     "organizations" : [ {
       "id" : "2",
       "name" : "Kontrollü Test Org",
-      "role" : "Propriétaire"
+      "role" : "Propritaire"
     }, {
       "id" : "1002",
       "name" : "24532",
